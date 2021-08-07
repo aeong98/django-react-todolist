@@ -1,7 +1,7 @@
 ## React-Django-Restapi
 
-***django rest framework, react로 구현된 to-do-list 앱입니다.***
-rest api 자동 명세화를 위해 `swagger`를 사용하였습니다.
+***django rest framework, react로 구현된 to-do-list 앱.***
+
 
 ## 시작하는법
 
